@@ -9,7 +9,7 @@ import type { Article, ArticleMetadata } from "@/types/article";
 
 // Import example articles
 import iPhonePocket, { metadata as iPhonePocketMetadata } from "@/pages/articles/iphone-pocket";
-import GettingStarted, { metadata as gettingStartedMetadata } from "@/pages/articles/getting-started";
+import macOS26B2, { metadata as macOS26B2Metadata } from "@/pages/articles/macos-tahoe2b2";
 
 /**
  * Article Registry
